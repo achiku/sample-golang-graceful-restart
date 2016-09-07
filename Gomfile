@@ -1,0 +1,6 @@
+gom 'github.com/rs/xhandler'
+gom 'github.com/rs/xmux'
+gom 'github.com/rs/xlog'
+gom 'golang.org/x/net/context'
+gom 'github.com/pkg/errors'
+gom 'github.com/shogo82148/go-gracedown'
